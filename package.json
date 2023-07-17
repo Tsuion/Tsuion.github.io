@@ -1,5 +1,5 @@
 {
-  "name": "TSUION",
+  "name": "pages",
   "version": "0.0.1",
   "description": "",
   "main": "index.js",
@@ -7,13 +7,15 @@
     "name": "",
     "email": ""
   },
-  "repository": "/TSUION",
+  "repository": "/pages",
   "scripts": {
     "dev": "vuepress dev src",
     "build": "vuepress build src"
   },
   "license": "MIT",
   "devDependencies": {
+    "@vuepress/plugin-google-analytics": "^1.9.7",
     "vuepress": "^1.5.3"
   }
 }
+
