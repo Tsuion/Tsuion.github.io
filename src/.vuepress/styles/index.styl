@@ -1,0 +1,47 @@
+/**
+ * Custom Styles here.
+ *
+ * ref：https://v1.vuepress.vuejs.org/config/#index-styl
+ */
+body
+  font-family 'M PLUS 1p', sans-serif
+  -webkit-font-smoothing antialiased
+  -moz-osx-font-smoothing grayscale
+  font-size 17px
+  color $textColor
+
+.home .hero img
+  @media screen and (max-width 767px)
+    max-width 300px!important
+
+  @media screen and (min-width 768px)
+    max-width 500px!important
+
+.iframeWrap {
+     position: relative;
+     padding-bottom: 56.25%;
+     height: 0;
+     overflow: hidden;
+}
+
+.iframeWrap iframe {
+     position: absolute;
+     top: 0;
+     left: 0;
+     width: 100%;
+     height: 100%;
+}
+
+.TW{
+position:relative;
+width:100%;
+height:0;
+padding-top:75%;
+}
+.TW iframe{
+position:absolute;
+top:0;
+left:0;
+width:100%;
+height:100%;
+}

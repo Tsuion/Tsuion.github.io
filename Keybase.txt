@@ -1,0 +1,81 @@
+==================================================================
+https://keybase.io/ogiai
+--------------------------------------------------------------------
+
+I hereby claim:
+
+  * I am an admin of https://tsuion.github.io
+  * I am ogiai (https://keybase.io/ogiai) on keybase.
+  * I have a public key with fingerprint 0CE3 C51D 6E66 8706 A5A5  39AF D09B 6425 0225 A675
+
+To do so, I am signing this object:
+
+{
+  "body": {
+    "key": {
+      "eldest_kid": "010185d951d16e7af284b94c69a7783b8adc4255de3de94efcc527b69f4bb4441fc30a",
+      "fingerprint": "0ce3c51d6e668706a5a539afd09b64250225a675",
+      "host": "keybase.io",
+      "key_id": "d09b64250225a675",
+      "kid": "010185d951d16e7af284b94c69a7783b8adc4255de3de94efcc527b69f4bb4441fc30a",
+      "uid": "d91f128fd6440f6a765894b630811419",
+      "username": "ogiai"
+    },
+    "merkle_root": {
+      "ctime": 1658807835,
+      "hash_meta": "35aa1b4b32068122ea58d22ebaef303f1a14a05d1e6c7b6f0c7d2e61b4ebdb8b",
+      "seqno": 22911745
+    },
+    "revoke": {
+      "sig_ids": [
+        "c50b26f6ca37d25552c3f2a8eac44d60cbf824e7dee346da3c71859a680273580f"
+      ]
+    },
+    "service": {
+      "hostname": "tsuion.github.io",
+      "protocol": "https:"
+    },
+    "type": "web_service_binding",
+    "version": 1
+  },
+  "ctime": 1658807840,
+  "expire_in": 157680000,
+  "prev": "c4d9c6b0875b8445e3e25c2fa45663e7260ae4d207ec8a22db01fd4f7930f40a",
+  "seqno": 19,
+  "tag": "signature"
+}
+
+which yields the signature:
+
+-----BEGIN PGP MESSAGE-----
+Version: Keybase OpenPGP v2.1.13
+Comment: https://keybase.io/crypto
+
+yMK7AnicrVNbbBVFGD6tF7ShgWDE24NlrWkiDczMzszOHiJE8VLhwT5ookg9zuWf
+06Xt2cPuniMXa6zRpJqgtGgMEk0aEkkqVk2QqERSKvBSn/CCMRYkVnloQoKJsdSY
+Olvqi/HReZnMzPd9/zffP3Oy+ZpCU8Pzv24713F4b1vD5MSOWkGdty27PRWbnV5x
+t9cDCxP0GkizUk9kvKKHMMKCmZBhgzkE0hJBVUg1D2UQCF8JaTQljBnwDYQUrNaM
+BIqHlipFKcVW+0h67Z6NKmVIqklUyXJZDb52mhw4FwHikknmh9IaFCru9BAhTPKA
+OWJ3nOYMZ07JFNZEsdtzi9KCvf/A/8++a1frhNhiIqzhlCLLZcCZCKniPhIYUxzm
+wBSSiuwDh47LkYy8/navD5KeXiglcZzlyeosys+xIwvkXDB3O5l2l/ogk47mMymx
+osoniAtMCEgmjJuUBOsj32KJqUTMYODaWbVIB4YAdxRQRgnlTKSwvRJ7RUJCjAPK
+nIUE6nEP5NXTqOxCS73iU55mSBFuuZa+k2CMEe1bIgVITanhSCsrCIXAAPiUG+nr
+wKUZSi4QCXwmkPW6+vNqST3SC+J5lxZvn6W1KK6sKUdZd01d7Vc1ibNYx73utDvL
+qmkxDyfbWc3hz4IqLQqVVFQx7p04Rh2S1Km4sBzyX7lR1O7BjmqUQCnKESxwvtzI
+60DdSWpqQs0VEgFTglIGPhCmiZWUce5DQDiSQA1BAWghCTEKYWuoDUIfWbrQ9sUg
+ceh8yrLTdOlVZFZLwOufGN96baGhqXD9dY35Byo03bj8n29l1i2Z3zjVdv7i0gtv
+nUx/OXGkc+yVT97bcvv+t5sG1s58dbwjGhj+035+4PtR83V49+nHXpZPZDYYaV2x
+busN20cvvwpPb5uRz80fIefO3j/d0gvphZ/u+O7wpyN/HJzb9Pu3D66Y5ujobPOZ
+3/zCm80HNnZ8PD576MuW11unHkr27hs6lj481fXuzdXNV2bn3p9b/8amZfseWDV8
+8K8vRqd3LW0cLJ6qXe6fuTg+fNfptpvaGycfZ/f1L7t04krX+s7lQ0sevXf1k6OT
+4pujj9w2tmc/vuXMsbHWztWrRl4a3LWy4YPhwT11vuHs0GdrN9sPf7jzUtAFKze8
+kA7cc+uhj16bH0reGZn4ecvxF08N/vhM+W/KG4UV
+=o/5l
+-----END PGP MESSAGE-----
+
+And finally, I am proving ownership of this host by posting or
+appending to this document.
+
+View my publicly-auditable identity here: https://keybase.io/ogiai
+
+==================================================================
